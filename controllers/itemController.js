@@ -45,5 +45,6 @@ const vulnerableSearch = async (req, res) => {
 module.exports = {
 	getItems,
 	addItem,
-	search
+	search,
+	vulnerableSearch
 }
